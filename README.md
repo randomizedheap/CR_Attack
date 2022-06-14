@@ -14,7 +14,7 @@ chmod +x download.sh
 ./download.sh
 ```
 
-### Whitebox Attack Examples
+## Whitebox Attack Examples
 White-box CR-PGD Attack(with L2 norm=1, hyperameters all under default setting):
 ```
 python3 whitebox_attack.py --config=configvoc_psp.json --norm=2 --eps=1
