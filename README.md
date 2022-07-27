@@ -1,6 +1,6 @@
 # A Certified Radius-Guided Attack Framework to Image Segmentation Models
 
-Demo code for paper submission "A Certified Radius-Guided Attack Framework to Image Segmentation Models".
+Demo code for paper submission "A Certified Radius-Guided Attack Framework to Image Segmentation Models". More code will be released soon.
 
 ## Preparations
 Download official torch model for Pascal VOC PSPNet [here](https://drive.google.com/drive/folders/1K18bS_WeUQH4O6qAZzCDoAfVg9VhgGMK).
